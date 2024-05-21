@@ -3,14 +3,6 @@
 
 > [https://mayanksamadhiya12345.github.io/Personal-Portfolio/]
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a "https://mayanksamadhiya12345.github.io/Personal-Portfolio/" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
-
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
