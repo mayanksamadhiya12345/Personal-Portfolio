@@ -30,7 +30,7 @@ To view a live example, **[click here](https://mayanksamadhiya12345.github.io/Pe
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
 * [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Ajax Frameworka</b>](https://api.jquery.com/category/ajax/) - Ajax Framework
+* [<b>Ajax Framework</b>](https://api.jquery.com/category/ajax/) - Ajax Framework
 
 ## Contributing 💡
 #### Step 1
